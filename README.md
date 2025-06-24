@@ -1,2 +1,6 @@
-# Immersion-Period-DS-ML-Project
-SIPP-2025 Period - Data Science/Machine Learning Project
+## Stock Trading Platform	
+# Features
+Real-time Stock Data 
+Trading System
+Portfolio Management
+Analytics
