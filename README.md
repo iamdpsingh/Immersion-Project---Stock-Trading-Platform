@@ -8,3 +8,5 @@ Trading System
 Portfolio Management
 
 Analytics
+
+It is a Django and Mongodb app
